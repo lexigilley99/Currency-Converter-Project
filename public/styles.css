@@ -1,4 +1,7 @@
 body {
+    background-image: url('backgroundimage.jpg');
+    background-size: cover;
+    background-position: center;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
